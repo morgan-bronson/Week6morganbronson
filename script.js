@@ -13,6 +13,8 @@ function time () {
   let Tax = 1.13
   let Subtotal = Size + Toppings
     alert(Subtotal)
+  let Total = Subtotal * Tax
     alert('total')
+  let Totaltax = 
     alert('totaltax')
 }
